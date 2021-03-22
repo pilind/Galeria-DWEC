@@ -1,0 +1,67 @@
+[
+	{
+		"category": {"title":"Mercedes-Benz", "url":"./img/Mercedes-Benz-Logo.png", "description":"The best or nothing"},
+		"images": [
+			{
+				"image": {"title": "Mercedes-Benz Clase S", "url":"./img/clase-s.jpg"},
+				"author": "Manolito"
+			},
+			{
+				"image": {"title": "Mercedes-Benz AMG", "url":"./img/amg.jpg"},
+				"author": "Pepito"
+			}
+		]
+	},
+	{
+		"category": {"title":"Audi", "url":"./img/Audi-logo.png", "description":"The power of imagination"},
+		"images": [
+			{
+				"image": {"title": "Audi RS5", "url":"./img/rs5.jpg"},
+				"author": "Antoñito"
+			},
+			{
+				"image": {"title": "Audi Q8", "url":"./img/q8.jpg"},
+				"author": "Manolito"
+			}
+		]
+	},
+	{
+		"category": {"title":"Land Rover", "url":"./img/Land-Rover-Logo.png", "description":"Capable of great things"},
+		"images": [
+			{
+				"image": {"title": "Range Rover Evoque", "url":"./img/evoque.jpg"},
+				"author": "Pepito"
+			},
+			{
+				"image": {"title": "Range Rover Velar", "url":"./img/velar.jpeg"},
+				"author": "Miguelito"
+			}
+		]
+	},
+	{
+		"category": {"title":"Volkswagen", "url":"./img/volkswagen_logo.jpg", "description":"Volkswagen"},
+		"images": [
+			{
+				"image": {"title": "Volkswagen Arteon", "url":"./img/arteon.jpg"},
+				"author": "Miguelito"
+			},
+			{
+				"image": {"title": "Volkswagen Golf GTI", "url":"./img/golf-gti.jpg"},
+				"author": "Antoñito"
+			}
+		]
+	},
+
+	{
+		"authors":[
+			{"nickname":"Pepito", "email": "pepito1@gallery.com", "avatar":"./img/pepito.jpg"},
+			{"nickname":"Manolito", "email": "manolito1@gallery.com", "avatar":"./img/manolito.jpg"},
+			{"nickname":"Antoñito", "email": "antoñito1@gallery.com", "avatar":"./img/antonito.jpg"},
+			{"nickname":"Miguelito", "email": "miguelito1@gallery.com", "avatar":"./img/miguelito.jpg"}
+		]
+	}
+]
+
+
+
+
